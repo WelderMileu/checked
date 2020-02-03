@@ -1,1 +1,4 @@
-# Estilizando um checkedbox
+`Estilizando o checkedbox`
+
+![template](body.png)
+
